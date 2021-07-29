@@ -26,5 +26,3 @@ dataset
               
 ## 其他
 * pytorch,tensorflow,keras版本
-
-## 開啟此檔案請用google-colab
