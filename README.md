@@ -2,7 +2,7 @@
 
 ## Dataset : roboflow公開數據集
 
-* note:建議將數據集存入雲端後讀取(數據集大傳輸過慢)
+* note:建議將數據集存入雲端後讀取
 
 ```
 dataset
