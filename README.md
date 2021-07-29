@@ -13,12 +13,14 @@ dataset
 
 
 ## 其他環境下使用yolov4:
-* Linux必須: CUDA<br>
+* Linux必須:
+             CUDA<br>
              cudnn<br>
              nvidia顯示卡<br>
              (須注意版本)<br>
          
-* windows必須:CUDA<br>
+* windows必須:
+              CUDA<br>
               cudnn<br>
               cmake<br>
               nvidia顯示卡<br>
