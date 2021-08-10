@@ -17,6 +17,7 @@ dataset
              CUDA<br>
              cudnn<br>
              cmake<br>
+             OpenCV<br>
              nvidia顯示卡<br>
              (須注意版本)<br>
          
@@ -24,6 +25,7 @@ dataset
               CUDA<br>
               cudnn<br>
               cmake<br>
+              OpenCV<br>
               nvidia顯示卡<br>
               (須注意版本)<br>
               
