@@ -16,6 +16,7 @@ dataset
 * Linux必須:<br>
              CUDA<br>
              cudnn<br>
+             cmake<br>
              nvidia顯示卡<br>
              (須注意版本)<br>
          
